@@ -1,0 +1,11 @@
+/db/
+/house/
+/member/
+/occupancy/
+/rating/
+/teamPublic/
+/vhecDB.lck
+/vhecDB.log
+/vhecDB.properties
+/vhecDB.script
+/vhecDB.tmp/
